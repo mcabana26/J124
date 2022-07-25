@@ -2,6 +2,7 @@
 Intro to Data Journalism Markdown practice resume
 # Melissa Cabana
 ## I am an undergraduate Public Health and journalism student at UC Berkeley.
+![Headshot](https://github.com/mcabana26/J124/blob/5e8d9ebf92965eeb06a624f1d29aa643d9ad90df/mel.jpeg)
 ## Skills
 1. Beginner Python
 2. Beginnger R
