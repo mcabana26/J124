@@ -7,15 +7,15 @@
 
 *The following are five questions and step-by-step answers based on the dataset above:*
 
-**Question 1:**
+**Question 1: Which age group has the highest rate of diabetes?**
 
-**Question 2:**
+**Question 2: Which BMI group has the highest rate of diabetes?**
 
-**Question 3:**
+**Question 3: Out of those with diabetes, what is the average income level?**
 
-**Question 4:**
+**Question 4: Do females or males have a higher rate of diabetes?**
 
-**Question 5:**
+**Question 5: Out of those with diabetes, what is the most prevalent education level?**
 
 ## Story Summary and Sourcing
 ## Data Visualizations
