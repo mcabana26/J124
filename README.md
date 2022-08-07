@@ -8,7 +8,7 @@
 *The following are five questions and step-by-step answers based on the dataset above:*
 
 **Question 1: Which age group has the highest rate of diabetes?**
-
+![Question 1](https://github.com/mcabana26/J124/blob/main/Screen%20Shot%202022-08-06%20at%206.25.34%20PM.png)
 **Question 2: Which BMI group has the highest rate of diabetes?**
 
 **Question 3: Out of those with diabetes, what is the average income level?**
