@@ -21,6 +21,8 @@
 
 **Question 4: Do females or males have a higher rate of diabetes?**
 
+![Question 4](https://github.com/mcabana26/J124/blob/main/Screen%20Shot%202022-08-06%20at%206.33.48%20PM.png)
+
 **Question 5: Out of those with diabetes, what is the most prevalent education level?**
 
 ## Story Summary and Sourcing
